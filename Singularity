@@ -1,3 +1,2 @@
 Bootstrap:docker  
-From:electronioncollider/remoll:0.0.0
-
+From:electronioncollider/eic:0.0.0
